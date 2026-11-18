@@ -1,7 +1,6 @@
 # Environmental Statistics Project
 # Climate change impact on agriculture (2024) ANALYSIS 
-#Team members:
-#Amal Herch     Olfa Trabelsi       Emna Dridi
+
 
 #load dataset:"Climate Change Impact on Agricultural Production"
 data<-read.csv("C:/Users/amalh/OneDrive - MSFT/Desktop/uni/5th semester/Environmental Statistics/proj1/dataset.csv")
